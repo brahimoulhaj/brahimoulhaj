@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brahimoulhaj
 - 👀 I’m interested in Software development and Machine Learning
-- 🌱 I’m currently learning new stuff (Vue3, Vite.js, Laravel, Inertia ...)
+- 🌱 I’m currently learning new stuff is (Vue3, Vite.js, Laravel, Inertia ...)
 - 📫 You can reach me at (LinkedIn - brahimoulhaj, Twitter - @brahimoulhaj)
 
 <!---
